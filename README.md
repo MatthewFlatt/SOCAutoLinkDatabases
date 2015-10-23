@@ -8,3 +8,5 @@ Currently works only for TFS and the Shared database model.
 Needs to be run on the SSMS client machine, logged in with the user, with SQL Source Control installed.
 
 Will overwrite any existing config so existing linked databases will be lost.
+
+Requires Microsoft Visual Studio Team Foundation Server Power Tools to be installed.
