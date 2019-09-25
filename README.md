@@ -9,4 +9,4 @@ Needs to be run on the SSMS client machine, logged in with the user, with SQL So
 
 Will overwrite any existing config so existing linked databases will be lost.
 
-Requires Microsoft Visual Studio Team Foundation Server Power Tools to be installed.
+Requires Microsoft Visual Studio Team Foundation Server Power Tools and Team Explorer for Visual Studio 2013 to be installed.
